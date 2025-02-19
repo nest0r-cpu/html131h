@@ -3,7 +3,7 @@
 This repository contains a simple **Anthropology Website** showcasing the four major subfields of anthropology.  
 
 ## 📜 Pages  
-- **Home Page:** `home_ng.html` - Introduction to anthropology.  
+- **Home Page:** `index.html` - Introduction to anthropology.  
 - **Cultural Anthropology:** `p01.html` - Examines human cultures, beliefs, and social structures.  
 - **Archaeology:** `p02.html` - Explores past civilizations through material remains.  
 - **Biological & Linguistic Anthropology:** `p03.html` - Focuses on human evolution, genetics, and language development.  
