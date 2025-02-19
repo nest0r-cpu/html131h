@@ -20,7 +20,7 @@ You can view the website using **GitHub Pages**:
 
 ## 📂 Project Structure  
 📁 anthropology-website
-│── home_ng.html
+│── index.html
 │── p01.html
 │── p02.html
 │── p03.html
