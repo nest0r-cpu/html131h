@@ -16,7 +16,7 @@ This repository contains a simple **Anthropology Website** showcasing the four m
 
 ## 🔗 Live Demo  
 You can view the website using **GitHub Pages**:  
-🔗 `[  ]`  
+🔗 `[ https://nest0r-cpu.github.io/html131h/index.html ]`  
 
 ## 📂 Project Structure  
 📁 anthropology-website
